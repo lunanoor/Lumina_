@@ -2,87 +2,53 @@
 
 *A magical AI companion that makes productivity feel like an adventure.*
 
-![Status](https://img.shields.io/badge/Status-In%20Development-purple)
-![Built With](https://img.shields.io/badge/Built%20With-React%20%2B%20TypeScript-blue)
-
 ## ✨ Overview
 
-Lumina is an aesthetic AI companion designed to combine productivity, creativity, and emotional well-being into one immersive experience. Instead of feeling like a traditional chatbot, Lumina is designed as a magical world where users can chat with an AI, complete quests, care for a virtual companion, and build positive daily habits.
+Lumina is a fantasy-inspired AI companion designed to combine productivity, creativity, and emotional well-being into one beautiful experience. It transforms everyday tasks into a cozy magical journey through an immersive interface, an AI chat assistant, a virtual pet, daily goals, mood tracking, relaxing music, and interactive animations.
+
+This project is currently being built from the ground up and will continue to evolve with new features and improvements.
 
 ---
 
-## 🌟 Features
+## 🌟 Planned Features
 
 * 💬 AI Chat Assistant
-* 🌙 Fantasy-inspired UI
 * 🐇 Cute Virtual Pet
-* 📅 Daily Goals & Task Manager
-* 📖 Story Mode
+* 📅 Daily Goals
 * 😊 Mood Tracker
-* 🎵 Relaxing Music Player
+* 📖 Story Mode
+* 🎵 Relaxing Music
 * 💾 Local Data Storage
-* ✨ Smooth Animations & Particle Effects
-* 🏆 Achievements & Level System
-* 🎨 Multiple Themes
+* ✨ Magical Animations
+* 🌌 Fantasy-Themed Interface
+* 🏆 Achievement & Level System
 
 ---
 
-## 🎯 Vision
+## 🛠️ Current Tech Stack
 
-Lumina aims to make productivity feel magical rather than stressful by transforming everyday tasks into an interactive adventure.
+* HTML5
+* CSS3
+* JavaScript *(coming soon)*
 
----
-
-## 🛠️ Tech Stack
-
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* Framer Motion
-* Local Storage
-* OpenRouter API (AI)
+Future versions may include additional technologies as the project grows.
 
 ---
 
-## 🚧 Development Status
+## 🚧 Status
 
-Lumina is currently under active development. New features, animations, and improvements are being added continuously.
+🚀 **Currently in active development.**
 
----
-
-## 📌 Roadmap
-
-* [ ] AI Chat
-* [ ] Home Dashboard
-* [ ] Virtual Pet
-* [ ] Daily Goals
-* [ ] Mood Tracker
-* [ ] Story Mode
-* [ ] Music System
-* [ ] Achievements
-* [ ] Theme Customization
-* [ ] Settings
-* [ ] Performance Optimization
+This is the first version of Lumina, and many exciting features are planned.
 
 ---
 
-## 🎨 Design Inspiration
+## 🎯 Goal
 
-The UI is inspired by cozy fantasy aesthetics, magical worlds, glowing interfaces, and relaxing night-time environments. Design inspirations have been collected separately and are being used as references while creating original screens and interactions.
-
----
-
-## 🤝 Contributing
-
-This is currently a personal project and is not accepting external contributions.
+Create an AI companion that feels less like software and more like stepping into a magical world where productivity, creativity, and self-growth come together.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-> *"Every great adventure begins with a single step—and every step becomes a little more magical with Lumina."* 🌙✨
+MIT License.
